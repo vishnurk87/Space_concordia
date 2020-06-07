@@ -1,2 +1,2 @@
 # Space_concordia
-initiation task space concordia
+This space contains the initiation task space concordia, where flask application is used to create a website into which the user can input the microseconds value for controlling a servo using an Arduino
